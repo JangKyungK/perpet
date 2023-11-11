@@ -1,0 +1,12 @@
+
+tag_images_by_wd14_tagger.py
+
+install list:
+
+pip install toml
+pip install transformers
+pip install diffusers
+pip install einops
+
+
+pip install voluptuous
